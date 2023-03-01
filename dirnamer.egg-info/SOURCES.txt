@@ -1,0 +1,10 @@
+README.md
+setup.py
+dirnamer/__inti__.py
+dirnamer/__main__.py
+dirnamer/dirnamer.py
+dirnamer.egg-info/PKG-INFO
+dirnamer.egg-info/SOURCES.txt
+dirnamer.egg-info/dependency_links.txt
+dirnamer.egg-info/entry_points.txt
+dirnamer.egg-info/top_level.txt
